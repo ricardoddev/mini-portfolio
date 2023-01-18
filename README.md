@@ -1,6 +1,6 @@
 <p align="center" style="display: flex">
-  <img src=".github/dark-mode.png" alt="Aplicação em modo escuro" height='500px' style="margin-right: 5px">
-  <img src=".github/light-mode.png" alt="Aplicação em modo claro" height="500px" style="margin-left: 5px">
+  <img src=".github/dark-mode.png" alt="Aplicação em modo escuro" width='500px'  height="auto"style="margin-right: 5px">
+  <img src=".github/light-mode.png" alt="Aplicação em modo claro" width="500px" height="auto"style="margin-left: 5px">
 </p>
 
 ## Objetivo
