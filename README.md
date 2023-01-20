@@ -17,3 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
+
+## Visite meu projeto!
+
+Link para visitar o site:
+https://ricardoddev.github.io/mini-portfolio/
