@@ -5,7 +5,7 @@
 
 ## Objetivo
 
-O objetivo desse projeto foi praticar conhecimentos em HTML, CSS e JavasCript para construir uma página de cartão de visitas na WEB. Utilizei como base para isso o mini curso DevLinks da <a href="https://www.rocketseat.com.br" style="color: #8257E5">RocketSeat</a>.
+O objetivo desse projeto foi praticar conhecimentos em HTML, CSS e JavasCript para construir uma página de cartão de visitas na WEB. Utilizei como base para isso o mini curso DevLinks da <a href="https://www.rocketseat.com.br" style="color: #8257E5" target="_blank" >RocketSeat</a>.
 
 Designei aos botões os links de minhas redes sociais e GitHub em dois formatos diferentes, mas planejo modificar esses botões no futuro para serem vinculados a novos projetos.
 
@@ -20,5 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Visite meu projeto!
 
-Link para visitar o site:
-https://ricardoddev.github.io/mini-portfolio/
+Acesse o site <a href="https://ricardoddev.github.io/mini-portfolio/" target="_blank" style="color: #8257E5">aqui</a>.
