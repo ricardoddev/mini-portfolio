@@ -1,6 +1,6 @@
 <p align="center" style="display: flex">
-  <img src=".github/dark-mode.png" alt="Aplicação em modo escuro" width='500px'  height="auto" style="margin: 5px">
-  <img src=".github/light-mode.png" alt="Aplicação em modo claro" width="500px" height="auto" style="margin: 5px">
+  <img src=".github/application.jpeg" alt="Aplicação em modo escuro" width='500px'  height="auto" style="margin: 5px">
+  <img src=".github/application-light.jpg" alt="Aplicação em modo claro" width="500px" height="auto" style="margin: 5px">
 </p>
 
 ## Objetivo
@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Visite meu projeto!
 
-Acesse o site [aqui](https://ricardoddev.github.io/mini-portfolio/).
+Acesse o site [aqui]().
